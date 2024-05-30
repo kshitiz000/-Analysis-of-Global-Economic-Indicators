@@ -1,1 +1,1 @@
-# -Analysis-of-Global-Economic-Indicators
+# Analysis-of-Global-Economic-Indicators
